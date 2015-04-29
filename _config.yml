@@ -1,6 +1,6 @@
 # general configuration
 url: http://drupal-mv.de
-baseurl: ''
+baseurl: 'drupal-mv.de/'
 
 exclude: [CNAME, Gemfile, LICENSE, README.md]
 
