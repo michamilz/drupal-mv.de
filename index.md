@@ -5,19 +5,30 @@ title: Home
 
 ## Aktuell
 
-Momentan finden keine regelmäßigen Treffen der Usergroup statt. Termine, wie CoWorking Days oder Sprints, werden auf [g.d.o/rostock](https://groups.drupal.org/rostock) angekündigt.
+Momentan finden keine regelmäßigen Treffen der Usergroup statt. Termine, wie
+CoWorking Days oder Sprints, werden auf [groups.drupal.org/rostock][gdo-mv]
+angekündigt.
 
 ## Geschichte
 
-Im Februar 2009 haben sich ein paar Drupal-Interessierte in Rostock zusammengefunden und einen regelmäßigen Stammtisch ins Leben gerufen. Mit der Zeit vergrößerte sich der kleine Kreis und der Rostocker Stammtisch mauserte sich zu einem Stammtisch für ganz Mecklenburg-Vorpommern.
+Im Februar 2009 haben sich ein paar Drupal-Interessierte in Rostock
+zusammengefunden und einen regelmäßigen Stammtisch ins Leben gerufen. Mit der
+Zeit vergrößerte sich der kleine Kreis und der Rostocker Stammtisch mauserte
+sich zu einem Stammtisch für ganz Mecklenburg-Vorpommern.
 
 ### DrupalDay MV 2011
 
-Im Rahmen des Stammtisches haben es die Drupal-Begeisterten aus ganz MV sogar geschafft, im März 2011 einen DrupalDay MV in der Universität Rostock zu organisieren, zu dem viele weitere User und Entwickler aus ganz Norddeutschland kamen und der zu einem großartigen Erfolg wurde.
+Im Rahmen des Stammtisches haben es die Drupal-Begeisterten aus ganz MV sogar
+geschafft, im März 2011 einen DrupalDay MV in der Universität Rostock zu
+organisieren, zu dem viele weitere User und Entwickler aus ganz Norddeutschland
+kamen und der zu einem großartigen Erfolg wurde.
 
 ## Termine
 
-Die jeweiligen aktuellen Termine finden sich auf [g.d.o/rostock](https://groups.drupal.org/rostock) und darüberhinaus haben wir auch noch eine Mailing Liste, auf der man sich mit einer Mail an [stammtisch-subscribe@drupal-mv.de](mailto:stammtisch-subscribe@drupal-mv.de) selbst eintragen kann.
+Wir nutzen die Gruppe [rostock][gdo-mv] auf [groups.drupal.org][gdo] (g.d.o in
+Drupal-Sprech) für die Organisation von Treffen und die Diskussion gemeinsamer
+Themen aus dem Drupal-Kosmos. Werd Mitglied [der Gruppe][gdo-mv] und gestalte
+unsere Usergroup mit!
 
 ---
 
@@ -38,4 +49,7 @@ Die jeweiligen aktuellen Termine finden sich auf [g.d.o/rostock](https://groups.
     <span class="fa fa-google-plus fa-lg main-list-item-icon"></span>
     <a href="https://plus.google.com/b/114305363581948692351/">Drupal-MV</a>
   </li>
-</ul>     
+</ul>
+
+[gdo]: https://groups.drupal.org
+[gdo-mv]: https://groups.drupal.org/rostock
