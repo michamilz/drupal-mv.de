@@ -27,7 +27,7 @@ kamen und der zu einem großartigen Erfolg wurde.
 
 Wir nutzen die Gruppe [rostock][gdo-mv] auf [groups.drupal.org][gdo] (g.d.o in
 Drupal-Sprech) für die Organisation von Treffen und die Diskussion gemeinsamer
-Themen aus dem Drupal-Kosmos. Werd Mitglied [der Gruppe][gdo-mv] und gestalte
+Themen aus dem Drupal-Kosmos. Werde Mitglied [der Gruppe][gdo-mv] und gestalte
 unsere Usergroup mit!
 
 ---
