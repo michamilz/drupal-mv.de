@@ -5,6 +5,12 @@ title: Home
 
 ## Aktuell
 
+### Drupalcamp Schwerin 2017
+
+Am 21. und 22. Oktober 2017 findet in Schwerin ein Drupalcamp statt. Weitere Infos dazu in Kürze.
+
+### Usergrouptreffen
+
 Momentan finden keine regelmäßigen Treffen der Usergroup statt. Termine, wie
 CoWorking Days oder Sprints, werden auf [groups.drupal.org/rostock][gdo-mv]
 angekündigt.
