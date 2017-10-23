@@ -7,7 +7,7 @@ title: Home
 
 ### Drupalcamp Schwerin 2017
 
-Am 21. und 22. Oktober 2017 findet in Schwerin ein Drupalcamp statt. Weitere Infos dazu findest du auf [https://dcsn17.drupalcamp.de/](https://dcsn17.drupalcamp.de/).
+Am 21. und 22. Oktober 2017 fand in Schwerin ein Drupalcamp statt. Weitere Infos dazu findest du auf [https://dcsn17.drupalcamp.de/](https://dcsn17.drupalcamp.de/).
 
 ### Usergrouptreffen
 
