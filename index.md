@@ -5,9 +5,13 @@ title: Home
 
 ## Aktuell
 
-### Drupalcamp Schwerin 2017
+### Drupalcamp Schwerin 2019 - #dfsn19
 
-Am 21. und 22. Oktober 2017 fand in Schwerin ein Drupalcamp statt. Weitere Infos dazu findest du auf [https://dcsn17.drupalcamp.de/](https://dcsn17.drupalcamp.de/).
+Am 14. und 15. September 2019 findet in Schwerin das "Drupal &amp; Friends
+BarCamp" (#dfsn19) statt. Dabei soll es neben Drupal um all (Web)Technologien, Workflows,
+(X)AAS und Frameworks gehen, mit denen WebentwicklerInnen heute in der täglichen
+Arbeit zu tun haben. Weitere Infos dazu findest du auf
+[https://dfsn19.drupalcamp.de/](https://dfsn19.drupalcamp.de/).
 
 ### Usergrouptreffen
 
@@ -28,6 +32,10 @@ Im Rahmen des Stammtisches haben es die Drupal-Begeisterten aus ganz MV sogar
 geschafft, im März 2011 einen DrupalDay MV in der Universität Rostock zu
 organisieren, zu dem viele weitere User und Entwickler aus ganz Norddeutschland
 kamen und der zu einem großartigen Erfolg wurde.
+
+### Drupalcamp Schwerin 2017
+
+Am 21. und 22. Oktober 2017 fand in Schwerin ein Drupalcamp statt. Weitere Infos dazu findest du auf [https://dcsn17.drupalcamp.de/](https://dcsn17.drupalcamp.de/).
 
 ## Termine
 
