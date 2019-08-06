@@ -53,15 +53,15 @@ unsere Usergroup mit!
   </li>
   <li class="main-list-item">
     <span class="fa fa-twitter fa-lg main-list-item-icon"></span>
-    <a href="https://twitter.com/drupal_mv">@drupal_mv</a>
+    <a rel="me" href="https://twitter.com/drupal_mv">@drupal_mv (Twitter)</a>
+  </li>
+  <li class="main-list-item">
+    <span class="fa fa-mastodon fa-lg main-list-item-icon"></span>
+    <a rel="me" href="https://nerdculture.de/@drupal_mv">@drupal_mv (Mastodon)</a>
   </li>
   <li class="main-list-item">
     <span class="fa fa-facebook fa-lg main-list-item-icon"></span>
-    <a href="https://www.facebook.com/pages/Drupal-MV/203909262954654">Drupal-MV</a>
-  </li>
-  <li class="main-list-item">
-    <span class="fa fa-google-plus fa-lg main-list-item-icon"></span>
-    <a href="https://plus.google.com/b/114305363581948692351/">Drupal-MV</a>
+    <a rel="me" href="https://www.facebook.com/pages/Drupal-MV/203909262954654">Drupal-MV (Facebook)</a>
   </li>
 </ul>
 
